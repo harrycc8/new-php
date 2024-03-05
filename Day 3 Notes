@@ -1,0 +1,119 @@
+VSCode: https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf
+
+Command pallette: Ctrl + Shift + P
+
+Goto File: Ctrl + P
+
+ 
+
+Task: Get Live Server refresh working - Akin to sort password.
+
+ 
+
+Browser - Local to user - Application
+
+DNS (Domain Name System) - Internet - Service
+
+Web Server - Server - Application/Service
+
+PHP preprocessor - Server - Application
+
+ 
+
+Request flow:
+
+Browser -> DNS -> [Web Server -> PHP preprocessor -> Web Server]-> Browser
+
+ 
+
+Variables:
+
+- Variables are used to store data, like text, numbers or arrays.
+
+- Variables are created using the $ symbol.
+
+Example: $name = "John"; $number = 5; $array = array(1, 2, 3);
+
+ 
+
+Operators:
+
++ Addition
+
+- Subtraction
+
+% Modulus
+
+** Exponentiation
+
+ 
+
+Comparison Operators:
+
+== Equal to
+
+!= Not Equal to (<>)
+
+=== Idedentical to
+
+!== Not Identical to
+
+ 
+
+Logical Operators:
+
+&& Logical And (and)
+
+|| Logical Or (or)
+
+! Logical Not (not)
+
+ 
+
+Concatenation:
+
+. Concatenation rather than + in Python.
+
+ 
+
+Regular Expressions:
+
+- Regular expressions are used to match patterns in strings.
+
+^ Start of the string
+
+$ End of the string
+
+. Any character
+
+\ escape character
+
+[] Character set
+
+[^] Not in character set
+
+\n New line
+
+\t Tab
+
+ 
+
+Tasks:
+
+- Increment and decrement a counter on a web page using PHP.
+
+- To be provided later - String replacemment using loops and concatenation in PHP *
+
+- Create a function that retuns the date and time in PHP - If not making sense just to a SS PHP for date and time (Try to format it in a readable way.)
+
+Example: 2021-01-01 12:00:00 Try to format it to 1st January 2021 12:00:00
+
+- Use that function on the counter page to display the date and time.
+
+ 
+
+- Make a request to the Intranet API using PHP and display the results on the page *
+
+   - Only if you are happy with making the time function. Make a function to call   the api taking artist name as the parameter.
+
+   - Create a form to take the artist name and pass to the function.
