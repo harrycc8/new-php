@@ -1,0 +1,83 @@
+Server
+
+Physical or Virtual
+
+    Physical server is actual hardware - Dell/HP
+
+        Virtual server/s will live on a Physical server.
+
+            Hyper/Para - VMware/Parallels
+
+        Containers
+
+            Types - Docker/Kubernetes
+
+           
+
+Operating System
+
+    Windows/Linux/etc
+
+        Executables/Binaries - PHP/Python
+
+        Service: Web Server (Apache or Nginx)
+
+ 
+
+XAMPP
+
+Apache + MariaDB + PHP + Perl
+
+We are only interested in: Apache + MariaDB + PHP
+
+ 
+
+Apache = Web Server
+
+PHP = Executable
+
+ 
+
+Web Server Root:
+
+www_root
+
+www
+
+public
+
+ 
+
+Index file:
+
+Waht is served by the web server in the abcense of a specified file...
+
+index.html
+
+index.php
+
+ 
+
+Text Editor or IDE
+
+Visual Studio Code
+
+Extensions:
+
+- Live Server + Chrome (with extension Live Server)
+
+- PHP Server
+
+- PHP Intelephense
+
+ 
+
+About PHP
+
+ 
+
+Try to keep to the rules on case imposed by PSRs or Frameworks:
+
+Cases explained: https://medium.com/nerd-for-tech/programming-case-types-explained-143cad3681e3
+
+PSRs: https://www.php-fig.org/psr/
