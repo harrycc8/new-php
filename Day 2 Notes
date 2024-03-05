@@ -1,0 +1,121 @@
+Error Codes:
+
+Full Info: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status
+
+ 
+
+Informational responses (100 – 199)
+
+Successful responses (200 – 299)
+
+Redirection messages (300 – 399)
+
+Client error responses (400 – 499)
+
+Server error responses (500 – 599)
+
+ 
+
+Examples:
+
+200 - OK
+
+301 - Redirect = Moved Permanently
+
+302 - Redirect
+
+400 - Bad Request
+
+401 - Unauthorized - You have submitted incorrect credentials
+
+403 - Forbidden - You do not have permission to access the page
+
+404 - Not Found - The page you are looking for does not exist
+
+500 - Internal Server Error
+
+ 
+
+Request Methods:
+
+GET - Retrieve data from the server
+
+POST - Send data to the server
+
+PUT - Update data on the server
+
+DELETE - Remove data from the server
+
+UPDATE - Update data on the server (not standard - sometimes called PATCH)
+
+ 
+
+ 
+
+Developer Tools:
+
+Availble in all browsers
+
+Use inspect element to open the developer tools or menue item
+
+Console - Shows errors and logs
+
+Network - Shows all network requests
+
+Performance - Shows performance of the page - Uses a waterfall chart and actual load times of all the elements
+
+Local Storage - Shows the local storage of the page
+
+ 
+
+Glossary:
+
+CDN - Content Delivery Network
+
+API - Application Programming Interface
+
+HTTP - Hyper Text Transfer Protocol
+
+HTTPS - Hyper Text Transfer Protocol Secure
+
+URL - Uniform Resource Locator
+
+Request - A message sent from the client to the server
+
+Responsive - A website that works on all devices (desktop, tablet, mobile)
+
+JSON - JavaScript Object Notation
+
+JS - JavaScript
+
+Minify - To remove all unnecessary characters from the code
+
+Pretyify - To make the code more readable
+
+ 
+
+Tasks:
+
+HTML (and PHP if you like)
+
+- Create some forms
+
+    - Play with the different form types
+
+        - Text, radio buttons, checkboxes, text areas, etc
+
+    - Setup a GET and display the results of the GET on a results page.
+
+    - Setup a POST and display the results of the GET on a results page.
+
+    - Provide me the reasons you would use one over the other - With some examples (not built)
+
+ 
+
+PHP
+
+- Use a form to create a counter so that each time you click the submit button the counter increments by 1.
+
+- Then add a new button so that you can decrement the counter by 1.
+
+- Then update both buttons to inc/dec by 100.
